@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Goro Collins
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI, and specifically Computer Vision
 - 🌱 I’m currently learning tensorflow
 - 💞️ I’m looking to collaborate on deep learning and computer vision projects
 - 📫 How to reach me gorocollins@gmail.com
